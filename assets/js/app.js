@@ -1,6 +1,6 @@
 let adviceText = document.querySelector('.card-text');
 let adviceId = document.querySelector('#advice-id');
-let adviceButton = document.querySelector('#advice-button');
+let adviceButton = document.getElementById('advice-button');
 
 const generateAdvice = () => {
     fetch("https://api.adviceslip.com/advice").then((response) => {
@@ -11,5 +11,5 @@ const generateAdvice = () => {
     })
 }
 
+adviceButton.addEventListener('click', generateAdvice)
 document.querySelector('body').addEventListener('load', generateAdvice())
-adviceButton.addEventListener('click', generateAdvice())
