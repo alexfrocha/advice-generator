@@ -6,4 +6,4 @@
 ![image](https://user-images.githubusercontent.com/107084445/178204724-65c53931-018d-4a0e-85ea-d7a51123ec68.png)
 <hr>
 
-<p>Um simples site feito utilizando as tecnologias HTML e CSS, o mesmo projetado para melhorar minhas habilidades como front-end, para facilitar a visualização do mini-projeto eu hospedei no <a href="https://pages.github.com" target="_blank">GitHub Pages</a> e você consegue ver através desse <a href="https://alexfrocha.github.io/advice-generator">link</a></p>
+<p>Um simples site feito utilizando as tecnologias HTML, CSS E JavaScript, o mesmo projetado para melhorar minhas habilidades como front-end, para facilitar a visualização do mini-projeto eu hospedei no <a href="https://pages.github.com" target="_blank">GitHub Pages</a> e você consegue ver através desse <a href="https://alexfrocha.github.io/advice-generator">link</a></p>
